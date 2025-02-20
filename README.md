@@ -31,4 +31,3 @@ I am passionate about leveraging data science and AI to solve real-world challen
 
 💡 Open to collaborations and discussions on AI, Data Science, and Web Development. Feel free to connect!  
 
-**prathmeshsagole/prathmeshsagole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
