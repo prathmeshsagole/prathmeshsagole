@@ -19,13 +19,18 @@ I am passionate about leveraging data science and AI to solve real-world challen
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathmeshsagole&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsagole&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prathmeshsagole&show_icons=true&theme=github_dark&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=prathmeshsagole&theme=github-dark-blue&hide_border=true" height="160"/>
 </p>
 
+### 🚀 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsagole&layout=compact&theme=github_dark" height="150"/>
+</p>
 ---
 
 ## 📫 Connect With Me  
@@ -34,10 +39,10 @@ I am passionate about leveraging data science and AI to solve real-world challen
   <a href="https://www.linkedin.com/in/prathmeshsagole/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sagoleprathamesh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your_instagram/">
+  <a href="https://www.instagram.com/prathmeshsagole/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
