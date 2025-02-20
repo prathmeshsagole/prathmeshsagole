@@ -12,9 +12,9 @@ I am passionate about leveraging data science and AI to solve real-world challen
 
 ## 🔹 Skills & Technologies  
 
-- **Programming:** Python, SQL, JavaScript, HTML, CSS  
-- **Data & AI:** Machine Learning, OpenCV, Streamlit  
-- **Web Development:** Flask, MySQL, React, Node.js  
+- **Programming:** Python, SQL, JavaScript, HTML, CSS ,Java
+- **Data & AI:** Machine Learning, NLP, Agentic AI, OpenCV, Streamlit, Web Scraping
+- **Web Development:** Flask, MySQL,.Net
 - **Tools & Platforms:** Git, GitHub, Linux  
 
 ---
