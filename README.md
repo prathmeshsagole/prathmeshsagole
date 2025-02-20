@@ -23,13 +23,13 @@ I am passionate about leveraging data science and AI to solve real-world challen
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathmeshsagole&show_icons=true&theme=github_dark&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=prathmeshsagole&theme=github-dark-blue&hide_border=true" height="170"/>
+<!--   <img src="https://streak-stats.demolab.com/?user=prathmeshsagole&theme=github-dark-blue&hide_border=true" height="170"/> -->
 </p>
 
 ### 🚀 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsagole&layout=compact&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsagole&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 ## 📫 Connect With Me  
