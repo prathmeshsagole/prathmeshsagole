@@ -2,8 +2,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prathmeshsagole" alt="visitor badge"/>
 </p>
 
-# Hi, I'm Prathmesh Sagole! 👋  
+<h1 align="center">Hi, I'm Prathmesh Sagole! 👋</h1>  
 
+
+## <h1 align="center"> 🔹 About Me  </h1>  
 
 🚀 **Aspiring Data Scientist | Web Developer | AI Enthusiast**  
 
