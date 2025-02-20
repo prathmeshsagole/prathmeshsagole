@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prathmeshsagole" alt="visitor badge"/>
-</p>
 
 # Hi, I'm Prathmesh Sagole! 👋  
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=prathmeshsagole&left_color=green&right_color=red)  
+
 
 🚀 **Aspiring Data Scientist | Web Developer | AI Enthusiast**  
 
