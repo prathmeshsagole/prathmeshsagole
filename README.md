@@ -29,7 +29,7 @@ I am passionate about leveraging data science and AI to solve real-world challen
 ### 🚀 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsagole&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshsagole&layout=compact&theme=github_dark" height="170"/>
 </p>
 
 ## 📫 Connect With Me  
