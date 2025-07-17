@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi, I'm Prathmesh Sagole! 👋</h1>  
-
 ## <h1 align="center"> 🔹 About Me  </h1>  
 
 🚀 **Aspiring Data Scientist | Web Developer | AI Enthusiast**  
